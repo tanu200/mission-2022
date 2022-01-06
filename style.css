@@ -84,6 +84,63 @@ body{
 .mission-area p{
     color: #4D4D4D;
 }
+/*community-area*/
+.community{
+    display: flex;
+    margin-top: 70px;
+    text-align: center;
+    
+}
+.community h2{
+    font-size: 40px;
+    font-family:'PT Serif', serif ;
+    color:#333333 ;
+    
+}
+.community p{
+    color:#4D4D4D ;
+}
 
-
-
+.codingtext{
+    padding-right: 80px;
+    max-width: 40%;
+    text-align: left;
+    margin-top: 20px;
+}
+.codingtext a{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #FDAC37;
+    color: aliceblue;
+    border-radius: 5px;
+}
+/*global area*/
+.global{
+    display: flex;
+    margin-top: 90px;
+    text-align: center;
+    
+}
+.globaltext{
+    padding-left:10%;
+    max-width: 40%;
+    text-align: left;
+    margin-top: 20px;
+}
+.globalimg{
+    padding-left: 90px;
+}
+.globaltext h1{
+    font-size: 40px;
+    font-family:'PT Serif', serif ;
+    color:#333333 ;}
+.globaltext p{
+    color:#4D4D4D ;
+}
+.globaltext a{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #FDAC37;
+    color: aliceblue;
+    border-radius: 5px;
+}
