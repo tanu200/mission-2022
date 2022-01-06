@@ -191,3 +191,20 @@ color:#FDAC37 ;
 .team-member p{
      color:#4D4D4D ;
 }
+/**footer area*/
+.text4{
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.text4 span{
+    color:#FDAC37 ;
+}
+.text4 h1{
+    color: #EDF5F6;
+}
+.text4 p{
+    color: #BABCC2;
+}
