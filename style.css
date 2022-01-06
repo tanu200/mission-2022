@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/*Header area*/
+.header-part{
+    display: flex;
+}
+.max-width{
+    width: 80%;
+
+}
+.max-width img{
+    width: 60%;
+}
+.text1 h1{
+    border-left: thick solid #FDAC37;
+    padding-left: 10px;
+    font-size: 60px;
+    color: #333333;
+   
+}
+.text1{
+    margin-left:10%;
+    margin-top: 10%;
+}
+.text1 span{
+    color: #FF5959;
+}
+.text1 p{
+ color: #4D4D4D;
+}
+.text1 a{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #FDAC37;
+    color: aliceblue;
+    border-radius: 5px;
+  
+}
