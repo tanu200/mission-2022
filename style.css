@@ -144,3 +144,50 @@ body{
     color: aliceblue;
     border-radius: 5px;
 }
+
+/*team-member*/
+.team-member{
+    display:flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 80px;
+ 
+    
+}
+.member h1{
+    font-size: 40px;
+    font-family:'PT Serif', serif ;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.member span{
+color:#FDAC37 ;
+}
+.team-member .person1{
+    background-color: #EDF5F6;
+    border-radius:10%;
+    margin:20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 10px 10px #333333;
+}
+.team-member .person2{
+    background-color: #FFEEEE;
+    border-radius:10%;
+    margin:20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 10px 10px #333333;
+}
+.team-member .person3{
+    background-color: #FFF4D6;
+    border-radius:10%;
+    margin:20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 10px 10px #333333;
+}
+.team-member p{
+     color:#4D4D4D ;
+}
