@@ -17,6 +17,7 @@ body{
     padding-left: 10px;
     font-size: 60px;
     color: #333333;
+    font-family: 'PT Serif', serif;
    
 }
 .text1{
@@ -37,3 +38,52 @@ body{
     border-radius: 5px;
   
 }
+
+/*Mission area*/
+.mission{
+    text-align: center;
+}
+.mission h1{
+    font-size: 50px;
+    font-family:'PT Serif', serif ;
+    color:#13103A;
+}
+.mission span{
+    color:#FDAC37 ;
+}
+.mission-area{
+    display: flex;
+    text-align: left;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.mission-area .mission1{
+       background-color: #EDF5F6;
+       border-radius:10%;
+       margin:10px;
+       padding-left: 20px;
+       padding-right: 20px;
+       
+}
+.mission-area .mission2{
+       background-color: #FFEEEE;
+       border-radius:10%;
+       margin:10px;
+       padding-left: 20px;
+       padding-right: 20px;
+    }
+.mission-area .mission3{
+    background-color: #FFF4D6;
+    border-radius:10%;
+    margin:10px;
+    padding-left: 20px;
+    padding-right: 20px;
+        }
+.mission-area p{
+    color: #4D4D4D;
+}
+
+
+
