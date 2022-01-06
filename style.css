@@ -45,11 +45,11 @@ body{
 }
 .mission h1{
     font-size: 50px;
-    font-family:'PT Serif', serif ;
+    
     color:#13103A;
 }
 .mission span{
-    color:#FDAC37 ;
+    color: #FF5959;
 }
 .mission-area{
     display: flex;
@@ -162,7 +162,7 @@ body{
     
 }
 .member span{
-color:#FDAC37 ;
+    color: #FF5959;
 }
 .team-member .person1{
     background-color: #EDF5F6;
@@ -204,6 +204,7 @@ color:#FDAC37 ;
 }
 .text4 h1{
     color: #EDF5F6;
+    font-family:'PT Serif', serif ;
 }
 .text4 p{
     color: #BABCC2;
